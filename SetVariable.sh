@@ -1,0 +1,4 @@
+export Twiliosid=AC8ef789a8ae2e2e16b014cc1867a8cc3f
+export Twiliotoken=4920b01dfb7c159c6744f44e01f35f48
+export RedditSecret=FhD9KLZfnJJPERs_lf2WZ_BwYmY
+export RedditID=kXlDcZPgp4YKYw
